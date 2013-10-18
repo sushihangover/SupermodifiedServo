@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 38
+*.ncb
+*.suo
+*.user
+*.vcproj
+Debug
+obj
+
+END

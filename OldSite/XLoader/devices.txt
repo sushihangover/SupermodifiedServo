@@ -1,0 +1,4 @@
+Mega(ATMEGA1280);m1280;57600;
+Duemilanove/Nano(ATmega328);m328p;57600;
+Duemilanove/Nano(ATmega168);m168;19200;
+Uno(ATmega328);m328p;115200;
